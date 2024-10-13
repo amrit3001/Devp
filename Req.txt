@@ -1,7 +1,6 @@
 pandas
-streamlit
+plotly
 seaborn
 matplotlib
-plotly
-
+streamlit
 
