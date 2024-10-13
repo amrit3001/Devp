@@ -1,5 +1,7 @@
-pandas 
-dash
+pandas
+streamlit
+seaborn
+matplotlib
 plotly
-socket
-random
+
+
